@@ -1,6 +1,7 @@
 # Rossmann2
 Rossmann stores predictions
 
+</br>
 This is the implementation of a Competition from Kaggle.
 Rossmann is a store sales chain from Germany and the goal of this project is to predict the sales.
 To do that, I have developed:
