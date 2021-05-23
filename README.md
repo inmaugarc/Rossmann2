@@ -1,5 +1,4 @@
 ![Alt text](./img/Rossmann_Logo.svg.png?raw=true "Rossmann Stores Sales Prediction")
-Rossmann stores predictions
 
 
 </br>
