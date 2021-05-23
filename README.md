@@ -16,7 +16,7 @@ To do that, I have developed:
   For this code to work you need to install python 3.7 and the following libraries: 
   <br>pandas
   <br>numpy
-  <br>matplotlib.pyplot 
+  <br>matplotlib 
   <br>pickle
   <br>seaborn  
   <br>sklearn
