@@ -1,4 +1,3 @@
-# Rossmann2
 ![Alt text](./img/Rossmann_Logo.svg.png?raw=true "Rossmann Stores Sales Prediction")
 Rossmann stores predictions
 
@@ -27,3 +26,4 @@ To do that, I have developed:
 
   
   ## Datasets<a name="datasets"></a>
+  Original dataset: https://www.kaggle.com/c/rossmann-store-sales/data
